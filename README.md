@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
   ![tenor](https://user-images.githubusercontent.com/112567953/229839679-0ecfd782-b7d9-4d25-900a-030be8efcb68.gif)
 
+### Hi there 👋
+##I'm Luis Fernando 
 
-
+I have experience in full stack development. However, my true passion lies in data science and machine learning. These fields captivate me with their potential to analyze complex data and uncover valuable insights. I am excited to focus my career on these areas, and I'm confident that my skills and enthusiasm will help me make a meaningful impact in the world of IA.
