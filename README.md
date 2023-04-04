@@ -1,23 +1,11 @@
-### Hi there 👋
 
-<!--
-**luisferdonoso/luisferdonoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                  ![tenor](https://user-images.githubusercontent.com/112567953/229839679-0ecfd782-b7d9-4d25-900a-030be8efcb68.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I'm Luis Fernando Donoso
 
-  ![tenor](https://user-images.githubusercontent.com/112567953/229839679-0ecfd782-b7d9-4d25-900a-030be8efcb68.gif)
+I have experience in full stack development. However, my true passion lies in data science and machine learning. These fields captivate me with their potential to analyze complex data and uncover valuable insights. I am excited to focus my career on these areas, and I'm confident that my skills and enthusiasm will help me make a meaningful impact in the world of IA. 🦾
 
-### Hi there 👋
-##I'm Luis Fernando 
-
-I have experience in full stack development. However, my true passion lies in data science and machine learning. These fields captivate me with their potential to analyze complex data and uncover valuable insights. I am excited to focus my career on these areas, and I'm confident that my skills and enthusiasm will help me make a meaningful impact in the world of IA.
+👨‍💻 All of my projects are available at https://github.com/luisferdonoso
+💼 I'm currently working in my Data Science portfolio and proyecto-4geeks
+📬 How to reach me luisfer.donoso@gmail.com
