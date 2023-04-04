@@ -9,5 +9,8 @@ I have experience in full stack development. However, my true passion lies in da
 💼 I'm currently working in my Data Science portfolio and proyecto-4geeks
 📬 How to reach me luisfer.donoso@gmail.com
 
-
-<a![Instagram_icon](https://user-images.githubusercontent.com/112567953/229846484-389b3bf8-894c-4564-b711-12ac3a3aa8c1.png) src="https://www.instagram.com/luisfdonoso/">
+<div>
+   <p align="center">
+      <img src="https://user-images.githubusercontent.com/112567953/229839679-0ecfd782-b7d9-4d25-900a-030be8efcb68.gif" alt=""/>
+   </p>
+</div>
