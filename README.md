@@ -1,5 +1,10 @@
 
-   ![tenor](https://user-images.githubusercontent.com/112567953/229839679-0ecfd782-b7d9-4d25-900a-030be8efcb68.gif)
+ <div>
+   <p align="center">
+      <img src="https://user-images.githubusercontent.com/112567953/229839679-0ecfd782-b7d9-4d25-900a-030be8efcb68.gif" alt=""/>
+   </p>
+</div>
+
 
 ### Hi there 👋 I'm Luis Fernando Donoso
 
@@ -9,8 +14,3 @@ I have experience in full stack development. However, my true passion lies in da
 💼 I'm currently working in my Data Science portfolio and proyecto-4geeks
 📬 How to reach me luisfer.donoso@gmail.com
 
-<div>
-   <p align="center">
-      <img src="https://user-images.githubusercontent.com/112567953/229839679-0ecfd782-b7d9-4d25-900a-030be8efcb68.gif" alt=""/>
-   </p>
-</div>
