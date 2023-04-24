@@ -11,7 +11,7 @@
    </h1>
 </div>
 <div>
-I have experience in full stack development. However, my true passion lies in data science and machine learning. These fields captivate me with their potential to analyze complex data and uncover valuable insights. I am excited to focus my career on these areas, and I'm confident that my skills and enthusiasm will help me make a meaningful impact in the world of IA. 🦾
+I have experience in full stack development. However, my true passion lies in python development, data science and machine learning. These fields captivate me with their potential to analyze complex data and uncover valuable insights. I am excited to focus my career on these areas, and I'm confident that my skills and enthusiasm will help me make a meaningful impact in the world of IA. 🦾
 </div>
 <br><div>
  <div>
@@ -21,7 +21,7 @@ I have experience in full stack development. However, my true passion lies in da
 </div>
 <div>
 <br><p> 👨‍💻 All of my projects are available at <a href="https://github.com/luisferdonoso"><img src="https://th.bing.com/th/id/OIP.D_Gm8IGCvkqmOgtU2hueVwHaHS?pid=ImgDet&rs=1" alt="" width="20px" height="20px" /></a></p>
-<p>💼 I'm currently working in my Data Science portfolio and <a href="https://github.com/jm181987/proyecto-4geeks">proyecto-4geeks</a></p>
+<p>💼 I'm currently working in my Data Science portfolio  <a href="https://github.com/jm181987/proyecto-4geeks">proyecto-4geeks</a></p>
 </div>
 
 
