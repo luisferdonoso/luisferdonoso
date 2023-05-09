@@ -20,7 +20,7 @@ I have experience in full stack development. However, my true passion lies in py
  <p>📬 Reach me on my Gmail  <a href="https://luisfer.donoso@gmail.com" >luisfer.donoso@gmail.com</a></p>
 </div>
  <div><p>Technologies : <br>
-  PYTHON | PANDAS | MATPLOTLIB | NUMPY | SQL | HTML | CSS | REACT | JAVASCRIPT | BOOTSTRAP | NODE | TABLEU | POWER BI </p></div>
+  PYTHON | PANDAS | MATPLOTLIB | NUMPY | SQL | HTML | CSS | REACT | JAVASCRIPT | BOOTSTRAP | TABLEU | POWER BI </p></div>
 <div>
 <br><p> 👨‍💻 All of my projects are available at <a href="https://github.com/luisferdonoso"><img src="https://th.bing.com/th/id/OIP.D_Gm8IGCvkqmOgtU2hueVwHaHS?pid=ImgDet&rs=1" alt="" width="20px" height="20px" /></a></p>
 <p>💼 I'm currently working in my Data Science portfolio and <a href="https://github.com/jm181987/proyecto-4geeks">proyecto-4geeks</a></p>
