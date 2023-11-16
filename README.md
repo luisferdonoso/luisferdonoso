@@ -18,7 +18,7 @@ I have experience in python development, data science and machine learning. Thes
 <p>🎓 Reach me on my Linkdin  <a href="https://www.linkedin.com/in/luis-fernando-donoso-872531220/" ><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" alt="" width="20px" height="20px" /></a></p>
 </div>
  <div><p>Technologies : <br>
-  PYTHON | PANDAS | MATPLOTLIB | NUMPY | SQL | HTML | CSS | JAVASCRIPT | BOOTSTRAP | TABLEU | POWER BI </p></div>
+  PYTHON | PANDAS | MATPLOTLIB | NUMPY | SQL | HTML | CSS | JAVASCRIPT | TABLEU | POWER BI </p></div>
 <div>
 <br><p> 👨‍💻 All of my projects are available at <a href="https://github.com/luisferdonoso"><img src="https://th.bing.com/th/id/OIP.D_Gm8IGCvkqmOgtU2hueVwHaHS?pid=ImgDet&rs=1" alt="" width="20px" height="20px" /></a></p>
 <p>💼 I'm currently working in my Data Science portfolio and <a href="https://github.com/jm181987/proyecto-4geeks">proyecto-4geeks</a></p>
