@@ -11,7 +11,7 @@
    </h1>
 </div>
 <div>
-I have experience in full stack development. However, my true passion lies in python development, cybersecurity, data science and machine learning. These fields captivate me with their potential to analyze complex data and uncover valuable insights. I am excited to focus my career on these areas, and I'm confident that my skills and enthusiasm will help me make a meaningful impact in the world of IA. 🦾
+I have experience in python development, data science and machine learning. These fields captivate me with their potential to analyze complex data and uncover valuable insights. I am excited to focus my career on these areas, and I'm confident that my skills and enthusiasm will help me make a meaningful impact in the world of IA. 🦾
 </div>
 <br><div>
  <div>
