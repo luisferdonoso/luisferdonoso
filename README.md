@@ -18,7 +18,7 @@ With a bachelor in Software engineering and a Master's degree on data science I'
 <p>🎓 Reach me on my Linkdin  <a href="https://www.linkedin.com/in/luis-fernando-donoso-872531220/" ><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" alt="" width="20px" height="20px" /></a></p>
 </div>
  <div><p>Technologies : <br>
-  Pyhton | PostgreSQL |  Tableu | Google Cloud | Hadoop | Apache Spark | Apache Airflow | AWS  </p></div>
+  Pyhton | PostgreSQL |  Tableu | Google Cloud | Bash | Terraform | Apache Airflow | AWS | Docker </p></div>
 <div>
 <br><p> 👨‍💻 All of my projects are available at <a href="https://github.com/luisferdonoso"><img src="https://th.bing.com/th/id/OIP.D_Gm8IGCvkqmOgtU2hueVwHaHS?pid=ImgDet&rs=1" alt="" width="20px" height="20px" /></a></p>
 <p>💼 I'm currently working in my Data Engineering, Cloud Engineering and Database Developer</p>
