@@ -11,7 +11,7 @@
    </h1>
 </div>
 <div>
-With a bachelor in Software engineering and a Master's degree on data science I've been really into data engineering, cloud engineering, and the whole world of database architecture. It's awesome how much you can do with these fields, like building strong systems, handling complex data setups, and using cloud tech in cool ways. I've been pretty hands-on with projects, which has been great for getting better at this stuff. I get super excited about putting together database systems that are not just powerful but also smooth and secure. I'm all in when it comes to using what I know to really shake things up in the tech world. As I keep learning and getting better, I'm keen to use what I've done in my projects to spark new ideas and make a real difference in how tech moves forward. 🦾
+With a Bachelor in Software Engineering and a Master's Degree on Data Science. I've been really into data engineering, cloud engineering, and the whole world of database and data architecture. It's awesome how much you can do with these fields, like building strong systems, handling complex data setups, and using cloud tech in cool ways. I've been pretty hands-on with projects, which has been great for getting better at this stuff. I get super excited about putting together database systems that are not just powerful but also smooth and secure. I'm all in when it comes to using what I know to really shake things up in the tech world. As I keep learning and getting better, I'm keen to use what I've done in my projects to spark new ideas and make a real difference in how tech moves forward. 🦾
 </div>
 <br><div>
  <div>
