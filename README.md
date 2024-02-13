@@ -11,7 +11,7 @@
    </h1>
 </div>
 <div>
-With a Bachelor in Software Engineering and a Master's Degree on Data Science. I've been really into data engineering, cloud engineering, and the whole world of database and data architecture. It's awesome how much you can do with these fields, like building strong systems, handling complex data setups, and using cloud tech in cool ways. I've been pretty hands-on with projects, which has been great for getting better at this stuff. I get super excited about putting together database systems that are not just powerful but also smooth and secure. I'm all in when it comes to using what I know to really shake things up in the tech world. As I keep learning and getting better, I'm keen to use what I've done in my projects to spark new ideas and make a real difference in how tech moves forward. 🦾
+As a Junior Data Engineer and Cloud Engineer based in Berlin, I specialize in developing innovative no-code and low-code database solutions within the finance sector, alongside crafting algorithms for automating credit evaluation controls. Currently enhancing my expertise with a Master's in Data Science, I've embarked on data engineering projects utilizing Docker, Terraform, and Apache Airflow for data pipeline creation and cloud infrastructure modeling. My professional experience includes roles as a Junior IT Analyst, where I've excelled in process automation, data analysis, and cross-functional collaboration to meet complex IT needs. My skill set spans Python, Git, Bash, and cloud technologies (AWS, GCP), underpinned by a solid foundation in containers, big data, and data governance 🦾
 </div>
 <br><div>
  <div>
