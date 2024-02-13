@@ -21,6 +21,6 @@ With a Bachelor in Software Engineering and a Master's Degree on Data Science. I
   Pyhton | PostgreSQL |  Tableu | Google Cloud | Bash | Terraform | Apache Airflow | AWS | Docker </p></div>
 <div>
 <br><p> 👨‍💻 All of my projects are available at <a href="https://github.com/luisferdonoso"><img src="https://th.bing.com/th/id/OIP.D_Gm8IGCvkqmOgtU2hueVwHaHS?pid=ImgDet&rs=1" alt="" width="20px" height="20px" /></a></p>
-<p>💼 I'm currently working in my Data Engineering, Cloud Engineering and Database Developer</p>
+<p>💼 I'm currently working in my Data Engineering Portfolio</p>
 
 
